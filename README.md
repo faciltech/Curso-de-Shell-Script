@@ -1,2 +1,2 @@
 # Curso-de-Shell-Script
-Repositório para os scripts do Curso de Shell Script para OSINT
+Repositório para os scripts feitos pelo alunos do Curso de Shell Script para OSINT
